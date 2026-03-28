@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
-<h3 align="center">I am engineering graduate with specialization in Artificial Intellegence. My insterests involves building systems that are able to perform real world tasks using Machine Learning, Data Science and Generatic=ve AI</h3>
+<h3 align="center">I am engineering graduate with specialization in Artificial Intellegence. My insterests involves building systems that are able to perform real world tasks using Machine Learning, Data Science and Generative AI</h3>
 
 - 🔭 I’m currently working on **MLOps and LLMOps projects**
 

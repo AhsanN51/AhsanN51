@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 📫 How to reach me **muhammadahsan8013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
